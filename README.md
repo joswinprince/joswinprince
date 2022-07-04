@@ -19,6 +19,14 @@
 > - Good in maintaining/retrieving information from the databases from the mysql
 > - maintaining software versions in git for sustainable software release.
 
+>#### Programming languages
+> - Java
+> - JavaScript
+> - Mysql
+> - Html
+> - css
+> - visual basic
+
 <!---
 joswinprince/joswinprince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
