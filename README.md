@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joswinprince -Software developer
+- 👋 Hi, I’m @joswinprince - **Software developer**
 - 👀 I’m interested in learning and teaching new technologies
 - 🌱 I’m currently software developer
 - 💞️ I’m looking to collaborate on cloud technologies
