@@ -10,7 +10,7 @@
 > -	Developed and configured code(Work flow) and triggers in multiple modules in Micro-focus ALM-Quality center SAAS environment.(Visual basic). 
 > -	Developed an Interface for Micro-Focus ALM Quality Control SAAS projects. 
 [Java application adds 2-factor authentication in Micro-Focus ALM Quality Control projects using REST-API-(Java) to implement in Workflow modules ].
-> -	Created Installer for java application(Visual studio Installer) to install in Windows client machines.
+> -	Created Installers for java application(Visual studio Installer) to install in Windows client machines.
 > - Working with batch files to automate processes.
 > -	Word press installation, creating modifying websites.
 > -	Creating documents, reviewing documents created within the team.
