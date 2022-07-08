@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on cloud technologies
 - 📫 How to reach me >kingdomjoswin@gmail.com
 >#### Milestones
+> - Have a good exposure in configuring a postgres database.
 > -	Tested Application using Selenium (Java), Selenium testing using IDE
 > -	Sales force Administration – managing permissions-sets maintaining users, Leads, Accounts, configuring Triggers, and developing visual force (Apex) pages.
 > -	Developed and configured code(Work flow) and triggers in multiple modules in Micro-focus ALM-Quality center SAAS environment.(Visual basic). 
