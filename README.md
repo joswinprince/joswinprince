@@ -28,6 +28,7 @@
 > - css
 > - visual basic
 > - Node js
+> - typescript
 
 
 <!---
