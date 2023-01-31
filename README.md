@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joswinprince - **Software developer**
 - 👀 I’m interested in learning and teaching new technologies
 - 🌱 I’m currently software developer
-- 💞️ I’m looking to collaborate on cloud technologies
+- 💞️ I’m looking to Work for FAANG companies
 - 📫 How to reach me >kingdomjoswin@gmail.com
 >#### Milestones
 > - Have a good exposure in configuring a postgres database.
