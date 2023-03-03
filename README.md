@@ -16,7 +16,7 @@
 > -	Creating documents, reviewing documents created within the team.
 > -	Hands on Experience, in using ‘git’ to maintain version control system of the development code.
 > -	Good understanding of Software Development Life Cycle.
-> - Skilled in excel application in maintaining datas.
+> - Skilled in making formulas in excel.
 > - Good in maintaining/retrieving information from the databases from the mysql
 > - maintaining software versions in git for sustainable software release.
 
