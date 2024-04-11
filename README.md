@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joswinprince - **Software developer**
 - 👀 I’m interested in learning and teaching new technologies
 - 🌱 I’m currently software developer
-- 💞️ I’m looking to Work for passionate Mid-range software development companies 
+- 💞️ I’m looking to Work for passionate growing software development organization where i can enhance my existing skills 
 - 📫 How to reach me >kingdomjoswin@gmail.com
 >#### Milestones
 > - Have a good exposure in configuring a postgres database.
