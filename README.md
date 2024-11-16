@@ -4,7 +4,7 @@
 - 💞️ I’m looking to Work for passionate growing software development organization where i can enhance my existing skills 
 - 📫 How to reach me >kingdomjoswin@gmail.com
 >#### Milestones
-> - Developed worked out Automation Script's using Robot Framework in Python.
+> - Developed and built Automation Script's using Robot Framework in Python.
 > - Developed and Maintained Automation Scripts in Playwright and selenium with Java.
 > - Have a good exposure in configuring a postgres database.
 > -	Tested Application using Selenium (Java), Selenium testing using IDE
