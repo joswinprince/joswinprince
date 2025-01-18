@@ -6,6 +6,7 @@
 >#### Milestones
 > - Developed and built Automation Script's using Robot Framework in Python.
 > - Developed and Maintained Automation Scripts in Playwright and selenium with Java.
+> - Developed and Maintained Automation Scripts in Playwright with Javascript.
 > - Have a good exposure in configuring a postgres database.
 > -	Tested Application using Selenium (Java), Selenium testing using IDE
 > -	Sales force Administration – managing permissions-sets maintaining users, Leads, Accounts, configuring Triggers, and developing visual force (Apex) pages.
@@ -31,6 +32,7 @@
 > - visual basic
 > - Node js
 > - typescript
+> - python
 
 
 <!---
