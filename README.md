@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @joswinprince - **Software engineer**
-- 👀 I’m interested in learning and teaching new technologies
-- 🌱 I’m currently software developer
+- 👋 Hi, I’m @joswinprince - **Test Automation Engineer**
+- 👀 I’m interested in learning new technologies
+- 🌱 I’m currently enjoying life
 - 💞️ I’m looking to Work for passionate growing software development organization where i can enhance my existing skills 
-- 📫 How to reach me >kingdomjoswin@gmail.com
+- 📫 How to reach me >kingdomjoswin@gmail.com >joswinprince@outlook.com
 >#### Milestones
 > - Developed and built Automation Script's using Robot Framework in Python.
 > - Developed and Maintained Automation Scripts in Playwright and selenium with Java.
