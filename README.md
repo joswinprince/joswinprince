@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joswinprince - **Test Automation Engineer**
+- 👋 Hi, I’m @joswinprince - **Senior software Engineer**
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently enjoying life
 - 💞️ I’m looking to Work for passionate growing software development organization where i can enhance my existing skills 
