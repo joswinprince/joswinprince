@@ -4,6 +4,10 @@
 - 💞️ I’m looking to Work for passionate growing software development organization where i can enhance my existing skills 
 - 📫 How to reach me >kingdomjoswin@gmail.com >joswinprince@outlook.com
 >#### Milestones
+> - Built Rest Api's in Spring Boot framework's.
+> - Deployed Dockercontainers in dockerhub and AWS ECR.
+> - Generated application builds through maven project's.
+> - CI/CD Pipeline Implementations through Github Actions and Jenkins server.
 > - Developed and built Automation Script's using Robot Framework in Python.
 > - Developed and Maintained Automation Scripts in Playwright and selenium with Java.
 > - Developed and Maintained Automation Scripts in Playwright with Javascript.
