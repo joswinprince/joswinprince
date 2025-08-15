@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @joswinprince - **Senior software Engineer**
+- I have built automated testing frameworks using multiple tools and techc stack
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m building backend API's in Java Spring Boot Framework, Deployment in AWS ECS through container's ,implementations through github actions along with the help of AWS IAM Roles, SecretManagers.
 - 💞️ I’m looking to Work for passionate growing software development organization where i can enhance my existing skills 
